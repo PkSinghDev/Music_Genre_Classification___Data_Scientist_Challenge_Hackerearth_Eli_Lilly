@@ -5,7 +5,7 @@
 Eli Lilly and Company posted a Data Scientist Challenge at Hackerearth. The machine learning question from the challenge is given below: - <br>
 A music genre is a conventional category that identifies some pieces of music as belonging to a shared tradition or set of conventions. **The major task at hand is to find what music genre a song belongs to??**
 
-![music_genre](https://user-images.githubusercontent.com/48447990/148058282-30e51cbd-b227-4c78-8a29-a45552f71359.jpg)
+![music_genre](https://user-images.githubusercontent.com/48447990/148086750-f4914b02-70c5-4ee2-8fe7-0ae5c3655ca3.jpg)
 
 #### Train Data: -
 This csv file consists of 15681 instances, each having 18 features. The features list with description is as follows: -<br>
@@ -35,3 +35,5 @@ This csv file consists of 3921 instances, each having 17 features. The target at
 #### Solution: -
 #### All Machine Learning Classification Algorithms to be tried to find the best one.
 
+
+#### [Complete Solution Understanding](https://medium.com/@pushpendrasinghcod/b2470b39f97d)
