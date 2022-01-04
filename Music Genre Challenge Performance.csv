@@ -1,0 +1,29 @@
+﻿Features Set (Having Correlation > 0.1 or < -0.1,Classification Algorithm,Best Performance on Validation Set,F1_Scores,Processing Time (in Seconds),,,
+"popularity', 'acousticness', 'danceability', 'duration_ms', 'energy', 'instrumentalness', 'loudness', 'speechiness', 'tempo', 'valence'",Logistic Regression,75.77%,55.23%,27.17,,Features Set (Having Correlation > 0.1 or < -0.1,
+,Naïve Bayes Classifier,67.86%,-,0.25,,Category,Best Model
+,k Nearest Neighbors,74.36%,54.06%,26.35,,Classification Algo,Random Forest Classifier
+,Support Vector Machines,76.60%,58.09%,553.92,,Accuracy Score,78.83%
+,Decision Trees,73.61%,55.00%,5.82,,F1_Score,60.87%
+,Random Forest Classifiers,78.12%,59.87%,87.74,,,
+,Multi Layer Perceptrons,77.15%,59.00%,209.51,,,
+,,,Notebook Execution Time,1000.25,,,
+,,,,,,,
+Features Set (Having Correlation > 0.2 or < -0.2,Classification Algorithm,Best Performance on Validation Set,F1_Scores,Processing Time (In Seconds),,,
+"popularity', 'acousticness', 'danceability', 'energy', 'instrumentalness', 'loudness', 'valence'",Logistic Regression,70.44%,48.22%,22.9,,Features Set (Having Correlation > 0.2 or < -0.2,
+,Naïve Bayes Classifier,59.83%,-,0.25,,Category,Best Model
+,k Nearest Neighbors,70.52%,51.44%,16.52,,Classification Algo,Random Forest Classifier
+,Support Vector Machines,71.70%,53.95%,702.84,,Accuracy Score,74.13%
+,Decision Trees,70.21%,51.79%,9.4,,F1_Score,56.43%
+,Random Forest Classifiers,73.19%,55.76%,61.13,,,
+,Multi Layer Perceptrons,72.19%,54.62%,198.17,,,
+,,,Notebook Execution Time,1102.21,,,
+,,,,,,,
+Features Set (Having Correlation > 0.05 or < -0.05,Classification Algorithm,Best Performance on Validation Set,F1_Scores,Processing Time (in Seconds),,,
+"popularity', 'acousticness', 'danceability', 'duration_ms', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'tempo', 'valence', ",Logistic Regression,75.59%,54.99%,36.58,,Features Set (Having Correlation > 0.05 or < -0.05,
+,Naïve Bayes Classifier,68.01%,-,0.25,,Category,Best Model
+,k Nearest Neighbors,73.73%,52.80%,36.4,,Classification Algo,Random Forest Classifier
+,Support Vector Machines,76.21%,58.10%,713.3,,Accuracy Score,78.93%
+,Decision Trees,73.56%,54.92%,8.28,,F1_Score,60.78%
+,Random Forest Classifiers,77.90%,59.71%,86.93,,,
+,Multi Layer Perceptrons,76.92%,59.41%,221,,,
+,,,Notebook Execution Time,1115.49,,,
