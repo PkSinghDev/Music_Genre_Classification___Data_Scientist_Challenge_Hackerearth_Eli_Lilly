@@ -33,5 +33,5 @@ This csv file consists of 15681 instances, each having 18 features. The features
 This csv file consists of 3921 instances, each having 17 features. The target attribute "music_genre" is missing from this data which needs to be predicted based on features available.
 
 #### Solution: -
-All Machine Learning Classification Algorithms to be tried to find the best one.
+#### All Machine Learning Classification Algorithms to be tried to find the best one.
 
